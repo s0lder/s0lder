@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @s0lder
+- 👀 I’m interested in graphics programming
+- 🌱 I’m currently learning Rust and OpenGL
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me threeroentgen@protonmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i'm boring
